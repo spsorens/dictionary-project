@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hello! Welcome to my dictionary app!
+        What would you like to learn about?
       </header>
       <main>
         <Dictionary />
