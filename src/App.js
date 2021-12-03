@@ -9,7 +9,7 @@ export default function App() {
         What would you like to learn about?
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="music" />
       </main>
     </div>
   );
